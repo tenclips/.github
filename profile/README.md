@@ -12,7 +12,7 @@ With Classplay, we try to provide the best user experience with great UI and eas
 📊 <b>Stats</b> - Check out our github website stats here: [Stats](https://github-stats.com/useclassplay/useclassplay.github.io) <br>
 
 ### Members
-[![Contributors](https://contrib.rocks/image?repo=superhardalgebraproblems/superhardalgebraproblems.github.io)](https://github.com/superhardalgebraproblems/superhardalgebraproblems.github.io/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=useclassplay/useclassplay.github.io)](https://github.com/useclassplay/useclassplay.github.io/graphs/contributors)
 
 
 
