@@ -1,2 +1,2 @@
-print"skibidi dynamike".
+jbgwcfvhbejbsieofuhqbgevjsi ovhugyfbvwhjiogut4bhjriuywhbjvniugykbvhldiafegubshfviaegubefhiqegubavhfugeavehgtveafhbgtv bansns
 
