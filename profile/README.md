@@ -1,2 +1,2 @@
-# Nebulance
-An out of this world games site.
+# Adurite Network
+A proxy network commited to making games sites.
